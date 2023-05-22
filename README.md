@@ -15,8 +15,8 @@ ____
 
 1. Adapter
 2. Bridge ✅
-3. Composite 
-4. Decorator 
+3. Composite ✅
+4. Decorator ✅
 5. Facade 
 6. Flyweight 
 7. Proxy
@@ -29,7 +29,7 @@ ____
 4. Iterator
 5. Mediator 
 6. Memento 
-7. Observer 
+7. Observer ✅ 
 8. State 
 9. Strategy 
 10. Template Method
