@@ -31,7 +31,7 @@ ____
 6. Memento 
 7. Observer 
 8. State 
-9.Strategy 
-10.Template Method
-11.Visitor
+9. Strategy 
+10. Template Method
+11. Visitor
 
